@@ -4,3 +4,7 @@ this is for branch2
 
 
 this is for branch3
+
+---
+
+fast forward with merge commit
